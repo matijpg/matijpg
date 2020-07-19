@@ -20,8 +20,12 @@ I am a second Year Sistem Analist at University UNLa. I love Full Stack Web Deve
     <img src="https://github.com/konpa/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="24px" height="24px"/>
     <img src="https://github.com/konpa/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" width="24px" height="24px"/>
   </p>
+  
+----
 
 ### 📫 How to reach me:
+
+[<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/matias-hernan-sierra/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](hernanmatiassierra@gmail.com)
 - Email:
 - Linkedin:
 - twitter:<a href="https://twitter.com/Mati__raw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" /></a>
