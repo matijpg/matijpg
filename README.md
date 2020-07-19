@@ -25,8 +25,8 @@ I am a second Year Sistem Analist at University UNLa. I love Full Stack Web Deve
 
 ### 📫 How to reach me:
 
-- Email: <img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/matias-hernan-sierra/)
-- Linkedin: <img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](hernanmatiassierra@gmail.com)
+- Email: [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/matias-hernan-sierra/)
+- Linkedin: [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](hernanmatiassierra@gmail.com)
 
 ### Social:
 <p align="left>
