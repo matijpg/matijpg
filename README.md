@@ -6,6 +6,7 @@
 <h4 align="left">A passionate frontend developer 👨‍💻  from Buenos Aires, Argentina</h4>
 
 :heart: Programming | :black_heart: Design
+
 I am a second Year Sistem Analist at Universiti UNLa. I love Full Stack Web Development.
 
 
