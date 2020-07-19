@@ -20,7 +20,7 @@ I am a second Year Sistem Analist at University UNLa. I love Full Stack Web Deve
 </p>
 
 ### 📫 How to reach me:
--How to reach me:
+- How to reach me:
 
 <p align="left">
   <a href="https://twitter.com/Mati__raw" target="blank">
