@@ -10,6 +10,8 @@
 
 I am a second Year Sistem Analist at University UNLa. I love Full Stack Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
 
+----
+
 ### 💻 Skills
 - <p align="left">
     <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
