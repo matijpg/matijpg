@@ -1,8 +1,9 @@
 
 ![banner](https://user-images.githubusercontent.com/36944271/87879665-b5d9a700-c9c2-11ea-97c8-df01d867c0cd.jpg)
+
 <h2 align="left">Hi 👋, I'm Matías Sierra</h2>
-:heart: Programming | :black_heart: Design | :blue_heart: Mate
 <h4 align="left">A passionate frontend developer 👨‍💻 🧉 from Buenos Aires, Argentina</h4>
+:heart: Programming | :black_heart: Design | :green_heart: Mate
 
 <p align="left">
   <a href="https://twitter.com/Mati__raw" target="blank">
