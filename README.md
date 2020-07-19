@@ -32,6 +32,6 @@ I am in second year Sistem Analyst at UNLa. I love Full Stack Web Development <i
 
 ### 📢 Social:
 <p align="left>
-<a href="https://twitter.com/Mati__raw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" /></a>
+<a href="https://twitter.com/Mati__raw/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" /></a>
 <a href="https://www.instagram.com/matti.js/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" /></a>
 </p>
