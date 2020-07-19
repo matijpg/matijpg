@@ -7,7 +7,7 @@
 
 :heart: Programming | :black_heart: Design
 
-I am a second Year Sistem Analist at University UNLa. I love Full Stack Web Development.
+I am a second Year Sistem Analist at University UNLa. I love Full Stack Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
 
 
 
@@ -25,6 +25,6 @@ I am a second Year Sistem Analist at University UNLa. I love Full Stack Web Deve
   <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
   <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="24px" height="24px"/>
   <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="24px" height="24px"/>
-  <ig src="https://github.com/konpa/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="24px" height="24px"/>
+  <img src="https://github.com/konpa/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="24px" height="24px"/>
 </p>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
