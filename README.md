@@ -8,7 +8,7 @@
 
 :heart: Programming | :black_heart: Design
 
-I am a second Year Sistem Analist at University UNLa. I love Full Stack Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
+I am a second year Sistem Analyst at University UNLa. I love Full Stack Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
 
 ----
 
