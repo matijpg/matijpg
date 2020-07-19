@@ -11,20 +11,16 @@
 I am a second Year Sistem Analist at University UNLa. I love Full Stack Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
 
 ### 💻 Skills
-<p align="left">
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="24px" height="24px"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="24px" height="24px"/>
-  <img src="https://github.com/konpa/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="24px" height="24px"/>
-  <img src="https://github.com/konpa/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" width="24px" height="24px"/>
-</p>
+- <p align="left">
+    <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
+    <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="24px" height="24px"/>
+    <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="24px" height="24px"/>
+    <img src="https://github.com/konpa/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="24px" height="24px"/>
+    <img src="https://github.com/konpa/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" width="24px" height="24px"/>
+  </p>
 
 ### 📫 How to reach me:
 - Email:
 - Linkedin:
-- twitter:<a href="https://twitter.com/Mati__raw" target="blank">
-                <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
-          </a>
-- Instagram:<a href="https://www.instagram.com/matti.js/" target="blank">
-                <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
-            </a>
+- twitter:<a href="https://twitter.com/Mati__raw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" /></a>
+- Instagram:<a href="https://www.instagram.com/matti.js/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" /></a>
