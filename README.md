@@ -25,8 +25,11 @@ I am a second Year Sistem Analist at University UNLa. I love Full Stack Web Deve
 
 ### 📫 How to reach me:
 
-[<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/matias-hernan-sierra/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](hernanmatiassierra@gmail.com)
-- Email:
-- Linkedin:
-- twitter:<a href="https://twitter.com/Mati__raw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" /></a>
-- Instagram:<a href="https://www.instagram.com/matti.js/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" /></a>
+- Email: <img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/matias-hernan-sierra/)
+- Linkedin: <img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](hernanmatiassierra@gmail.com)
+
+### Social:
+<p align="left>
+<a href="https://twitter.com/Mati__raw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" /></a>
+<a href="https://www.instagram.com/matti.js/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" /></a>
+</p>
