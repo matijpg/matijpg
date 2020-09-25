@@ -1,6 +1,3 @@
-
-![banner](https://user-images.githubusercontent.com/36944271/87879665-b5d9a700-c9c2-11ea-97c8-df01d867c0cd.jpg)
-
 <h2 align="left">Hi 👋, I'm Matias Sierra</h2>
 
 
