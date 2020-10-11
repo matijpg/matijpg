@@ -11,7 +11,7 @@ I am in second year Sistem Analyst at UNLa. I love Full Stack Web Development <i
 
 ### 💻 Skills
 - <p align="left">
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
     <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="24px" height="24px"/>
     <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="24px" height="24px"/>
     <img src="https://github.com/konpa/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="24px" height="24px"/>
